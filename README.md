@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+I am a computer science major but I am switching over to business marketing in the coming year. 
+## We are doing a hangman project in engineering programming 
+## Computer science is definetly not for me but I'm glad to have met the people I did and I still learned a whole lot. 
 <!--
 **fw207223/fw207223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
